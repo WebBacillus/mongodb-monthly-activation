@@ -1,0 +1,6 @@
+.env
+.env.*
+*.env
+credentials.json
+.n8n/
+.DS_Store
